@@ -397,7 +397,7 @@ export const talents = [
     {
         name: "ayaya",
         title: "Influencer",
-        image: "ReiwaGirls/46AyanoKoyamauchi.jpg",
+        image: "ReiwaGirls/46_koyamauchi.jpg",
         tiktok: "https://www.instagram.com/ayaya0?igsh=MWtnbGJzeDdwZ2N1MQ==",
         instagram: "",
         x: "https://x.com/JpSunny13?t=odVlG83zWHGioVrWQeuogw&s=06"
@@ -408,6 +408,14 @@ export const talents = [
         image: "ReiwaGirls/47IoriKosaka.jpg",
         tiktok: "",
         instagram: "https://www.instagram.com/______iobaby?igsh=MWN6aTg1ZW4zN3poag%3D%3D&utm_source=qr",
+        x: ""
+    },
+    {
+        name: "ゆう👻💫/被写体関西",
+        title: "Model",
+        image: "ReiwaGirls/55_tomioka.jpg",
+        tiktok: "",
+        instagram: "https://www.instagram.com/camera_yu03",
         x: ""
     }
 ];

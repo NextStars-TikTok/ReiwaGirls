@@ -161,11 +161,11 @@ export const talents = [
     },
     {
         name: "Ayu",
-        title: "Infkuencer/Model/Creator",
+        title: "Influencer/Model/Creator",
         image: "ReiwaGirls/43AyumiHujimura.jpg",
-        tiktok: "https://www.tiktok.com/@basil8120?_t=8pen6U4UmRt&_r=1",
-        instagram: "https://www.instagram.com/mie6628",
-        x: ""
+        tiktok: "",
+        instagram: "https://instagram.com/ayu2fashion",
+        x: "https://twitter.com/ayu2fashion"
     },
     {
         name: "三村有希",

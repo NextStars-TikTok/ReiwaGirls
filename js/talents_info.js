@@ -50,7 +50,7 @@ export const talents = [
     {
         name: "Kanon Naoi",
         title: "Model",
-        image: "ReiwaGirls/20Kanon.jpg",
+        image: "ReiwaGirls/20_naoi.jpg",
         tiktok: "https://www.tiktok.com/@kanon_naoi?_t=8rUDSOHLy91&_r=1",
         instagram: "https://www.instagram.com/kanon_naoi",
         x: ""

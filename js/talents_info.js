@@ -51,7 +51,7 @@ export const talents = [
         name: "Kanon Naoi",
         title: "Model",
         image: "ReiwaGirls/20Kanon.jpg",
-        tiktok: "www.tiktok.com/@kanon_naoi",
+        tiktok: "https://www.tiktok.com/@kanon_naoi?_t=8rUDSOHLy91&_r=1",
         instagram: "https://www.instagram.com/kanon_naoi",
         x: ""
     },
@@ -113,7 +113,7 @@ export const talents = [
     },
     {
         name: "Kanamim",
-        title: "Model",
+        title: "Influencer/Model",
         image: "ReiwaGirls/36KanamiKaneko.jpg",
         tiktok: "https://www.tiktok.com/@kanamirin?_t=8pk3AlDBaiu&_r=1",
         instagram: "https://www.instagram.com/kanami_n_2525?igsh=NGhkY2w1Yzg3YWJ3&utm_source=qr",
@@ -168,11 +168,11 @@ export const talents = [
         x: ""
     },
     {
-        name: "Michiko",
-        title: "Model",
+        name: "三村有希",
+        title: "Influencer",
         image: "ReiwaGirls/21YukiShiga.jpg",
         tiktok: "",
-        instagram: "https://www.instagram.com/u0829",
+        instagram: "https://www.instagram.com/u0829u/",
         x: ""
     },
     {
@@ -251,7 +251,7 @@ export const talents = [
     },
     
     {
-        name: "本田希",
+        name: "本多希",
         title: "Influencer",
         image: "ReiwaGirls/18NozomiMiyazaki.jpg",
         tiktok: "",

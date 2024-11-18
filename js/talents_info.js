@@ -334,7 +334,7 @@ export const talents = [
         name: "Sayo",
         title: "Model",
         image: "ReiwaGirls/42KoyoInada.jpg",
-        tiktok: "https://vt.tiktok.com/ZSe8epoEJ/",
+        tiktok: "https://www.tiktok.com/@sayx24?_t=8rULl8d4z6F&_r=1",
         instagram: "https://www.instagram.com/sayx24/",
         x: "https://mobile.twitter.com/sayx31"
     },

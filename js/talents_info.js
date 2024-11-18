@@ -399,7 +399,7 @@ export const talents = [
         title: "Influencer",
         image: "ReiwaGirls/46_koyamauchi.jpg",
         tiktok: "https://www.instagram.com/ayaya0?igsh=MWtnbGJzeDdwZ2N1MQ==",
-        instagram: "",
+        instagram: "https://www.instagram.com/ayaya0/profilecard/?igsh=MWtnbGJzeDdwZ2N1MQ==",
         x: "https://x.com/JpSunny13?t=odVlG83zWHGioVrWQeuogw&s=06"
     },
     {

@@ -91,7 +91,7 @@ export const talents = [
         name: "sumire",
         title: "Artist",
         image: "ReiwaGirls/27YotsukoYoshino.jpg",
-        tiktok: "",
+        tiktok: "https://www.tiktok.com/@sumire9245?_t=8rUJ8jTkgoE&_r=1",
         instagram: "https://www.instagram.com/sumiremiyazaki716",
         x: ""
     },

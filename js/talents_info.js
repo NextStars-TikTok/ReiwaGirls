@@ -371,7 +371,7 @@ export const talents = [
         x: ""
     },
     {
-        name: "Rin",
+        name: "Rim",
         title: "Influencer",
         image: "ReiwaGirls/40Erika.jpg",
         tiktok: "www.tiktok.com/@pipi_0312",

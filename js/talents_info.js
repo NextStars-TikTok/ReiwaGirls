@@ -213,7 +213,7 @@ export const talents = [
         name: "Kei",
         title: "Model",
         image: "ReiwaGirls/7MegukoIwama.jpg",
-        tiktok: "https://vt.tiktok.com/ZS8LDxVrq/",
+        tiktok: "https://www.tiktok.com/@keiermitage?_t=8rUIEH0Spyq&_r=1",
         instagram: "https://www.instagram.com/kei_ermitage/",
         x: "https://twitter.com/kei12507754"
     },

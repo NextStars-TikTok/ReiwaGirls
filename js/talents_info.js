@@ -299,7 +299,7 @@ export const talents = [
         x: ""
     },
     {
-        name: "白石萌々香",
+        name: "MOMOKA 萌々香",
         title: "Model",
         image: "ReiwaGirls/37MomokaShiraisi.jpg",
         tiktok: "https://www.tiktok.com/@takethecrown23?_t=8pmovU14AA3&_r=1",

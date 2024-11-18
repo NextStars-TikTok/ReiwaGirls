@@ -155,8 +155,8 @@ export const talents = [
         name: "Mie",
         title: "Influencer",
         image: "ReiwaGirls/17MieOkita.jpg",
-        tiktok: "",
-        instagram: "",
+        tiktok: "https://www.tiktok.com/@basil8120?_t=8pen6U4UmRt&_r=1",
+        instagram: "https://www.instagram.com/mie6628",
         x: ""
     },
     {

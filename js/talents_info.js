@@ -27,9 +27,9 @@ export const talents = [
         name: "Yuna",
         title: "Model",
         image: "ReiwaGirls/52Yuna.png",
-        tiktok: "",
+        tiktok: "https://www.tiktok.com/@yunapiiiiii_?_t=8pr5ac8J5Do&_r=1",
         instagram: "https://www.instagram.com/yuna.k_0108?igsh=MWdoMGZnbjV2YmlubA%3D%3D&utm_source=qr",
-        x: "https://www.tiktok.com/@yunapiiiiii_?_t=8pr5ac8J5Do&_r=1"
+        x: ""
     },
     {
         name: "チノ(悩める大丈夫乙女ｯｯ🫧🛼)",

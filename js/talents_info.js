@@ -26,7 +26,7 @@ export const talents = [
     {
         name: "Yuna",
         title: "Model",
-        image: "ReiwaGirls/52Yuna.png",
+        image: "ReiwaGirls/48_kagawa.png",
         tiktok: "https://www.tiktok.com/@yunapiiiiii_?_t=8pr5ac8J5Do&_r=1",
         instagram: "https://www.instagram.com/yuna.k_0108?igsh=MWdoMGZnbjV2YmlubA%3D%3D&utm_source=qr",
         x: ""

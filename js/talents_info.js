@@ -26,7 +26,7 @@ export const talents = [
     {
         name: "Yuna",
         title: "Model",
-        image: "ReiwaGirls/48_kagawa.png",
+        image: "ReiwaGirls/48_kagawa.jpg",
         tiktok: "https://www.tiktok.com/@yunapiiiiii_?_t=8pr5ac8J5Do&_r=1",
         instagram: "https://www.instagram.com/yuna.k_0108?igsh=MWdoMGZnbjV2YmlubA%3D%3D&utm_source=qr",
         x: ""
@@ -34,7 +34,7 @@ export const talents = [
     {
         name: "チノ(悩める大丈夫乙女ｯｯ🫧🛼)",
         title: "Liver",
-        image: "ReiwaGirls/49_chino.png",
+        image: "ReiwaGirls/49_chino.jpg",
         tiktok: "https://www.tiktok.com/@user1192618048555?_t=8pqva2GVqGQ&_r=1",
         instagram: "https://www.instagram.com/iamririca?igsh=MXJmZjV4eGU5cDA3eg==",
         x: "https://twitter.com/chino011414"

@@ -98,8 +98,8 @@ export const talents = [
     {
         name: "misaki",
         title: "Influencer/Model",
-        image: "ReiwaGirls/5MisakiDanno.jpg",
-        tiktok: "",
+        image: "ReiwaGirls/5_danno.jpg",
+        tiktok: "https://www.tiktok.com/@___mii31?_t=8rW3xTFaSHN&_r=1",
         instagram: "https://instagram.com/__m31k",
         x: ""
     },

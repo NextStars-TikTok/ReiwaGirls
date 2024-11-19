@@ -40,7 +40,7 @@ export const talents = [
         x: "https://twitter.com/chino011414"
     },
     {
-        name: "RIRIKA",
+        name: "Ririca",
         title: "Singer",
         image: "ReiwaGirls/9RirikaInimi.jpg",
         tiktok: "https://www.tiktok.com/@singer_ririca?_t=8piLvR1Tluq&_r=1",

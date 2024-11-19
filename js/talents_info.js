@@ -34,7 +34,7 @@ export const talents = [
     {
         name: "チノ(悩める大丈夫乙女ｯｯ🫧🛼)",
         title: "Liver",
-        image: "ReiwaGirls/51Chino.png",
+        image: "ReiwaGirls/49_chino.png",
         tiktok: "https://www.tiktok.com/@user1192618048555?_t=8pqva2GVqGQ&_r=1",
         instagram: "https://www.instagram.com/iamririca?igsh=MXJmZjV4eGU5cDA3eg==",
         x: "https://twitter.com/chino011414"
@@ -187,7 +187,7 @@ export const talents = [
     {
         name: "らん姉",
         title: "Influencer",
-        image: "ReiwaGirls/32RanKasai.jpg",
+        image: "ReiwaGirls/32_kasai.jpg",
         tiktok: "https://www.tiktok.com/@_bs_ranne_?_t=8phqdPzbn44&_r=1",
         instagram: "https://www.instagram.com/ran_k_official?igsh=ZnZyMXdpMmh1YXZt&utm_source=qr",
         x: "https://x.com/ran_k_official?s=21&t=GCoPd79lkfxWtWtsymO50A"
@@ -341,7 +341,7 @@ export const talents = [
     {
         name: "michiko",
         title: "Model",
-        image: "ReiwaGirls/19MichikoOotsubo.jpg",
+        image: "ReiwaGirls/19_otsubo.jpg",
         tiktok: "",
         instagram: "http://instagram.com/michiko.tslm",
         x: ""

@@ -261,7 +261,7 @@ export const talents = [
     {
         name: "舞田瑠胡",
         title: "Actor/Dancer",
-        image: "ReiwaGirls/39RurikoNaganuma.jpg",
+        image: "ReiwaGirls/39_naganuma.jpg",
         tiktok: "www.tiktok.com/@maitachanu",
         instagram: "https://www.instagram.com/chanuryy?igsh=eDZnMDV3djh5ZDFh&utm_source=qr",
         x: "https://twitter.com/riko_maita"

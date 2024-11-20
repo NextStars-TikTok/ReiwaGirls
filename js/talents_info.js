@@ -128,14 +128,6 @@ export const talents = [
         x: "https://mobile.twitter.com/otsuruboon"
     },
     {
-        name: "KIRA",
-        title: "Model",
-        image: "ReiwaGirls/33KiraNagasaki.jpg",
-        tiktok: "https://www.tiktok.com/@ki0629ra?_t=8phqcBCWBnT&_r=1",
-        instagram: "https://www.instagram.com/ki0629ra?igsh=MTA4OHlsejZ2Nmo2Mg%3D%3D&utm_source=qr",
-        x: ""
-    },
-    {
         name: "ほの",
         title: "Influencer/Model/Dancer",
         image: "ReiwaGirls/4HonokaIkemi.jpg",

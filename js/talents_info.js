@@ -81,7 +81,7 @@ export const talents = [
     },
     {
         name: "まりあんぬ",
-        title: "Influencer/Model",
+        title: "Influencer/Liver",
         image: "ReiwaGirls/25MariaKimura.jpg",
         tiktok: "https://www.tiktok.com/@mariannu627?_t=8pezcBXYruC&_r=1",
         instagram: "https://www.instagram.com/mariannu627",

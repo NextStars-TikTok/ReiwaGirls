@@ -349,7 +349,7 @@ export const talents = [
     {
         name: "Jin",
         title: "Artist",
-        image: "ReiwaGirls/30JinbaMurakami.jpg",
+        image: "ReiwaGirls/30_murakami.jpg",
         tiktok: "",
         instagram: "https://www.instagram.com/mjdwtjm_harry56",
         x: ""

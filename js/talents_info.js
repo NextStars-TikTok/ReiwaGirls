@@ -350,7 +350,7 @@ export const talents = [
         name: "Jin",
         title: "Artist",
         image: "ReiwaGirls/30_murakami.jpg",
-        tiktok: "",
+        tiktok: "https://www.tiktok.com/@mjdwtjmharry56?_t=8rZdjj5oAvy&_r=1",
         instagram: "https://www.instagram.com/mjdwtjm_harry56",
         x: ""
     },
